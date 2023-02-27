@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+// Var section
+@background-dark: #2B2E32;
+@background-light: #FFFFFF;
+@font-dark: @background-dark;
+@font-light: @background-light;
+@font-accent: #EBD540;
+
+body                            { font-family: 'Cabin', sans-serif; background: @background-light; color: @font-dark; margin: 0; padding: 0; height: 200vh;}
+
+// Header
+.header                         { position: fixed; top: 0; left: 0; width: 95%; margin-top: 1rem; height: 50px; left: 50%; transform: translate(-50%, 0); display: flex;
+    justify-content: space-between; align-items: center; padding: 1rem;
+    .header-section             { 
+        img                     { padding: 0; }
+    }
+}
+
+.btn-project                    { background: @font-accent; margin-top: 5rem; }
+
+
+
+input                           {position: relative; margin: 0 10px;width: 34px; height: 20px;border-radius: 25px;background: #999; outline: 0; -webkit-appearance: none; cursor: pointer;
+    input:checked               { background: @font-accent; }
+    input:checked::after        {transform: translateX(100%); }
+    &::after                    {content: ''; position: absolute; top: 2px; left: 2px; display: block; width: calc((100% - 4px) / 2); height: calc(100% - 4px); border-radius: 50%;background: #eee; transition: all .1s linear;}
+}
+
