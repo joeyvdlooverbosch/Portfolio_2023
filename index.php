@@ -28,22 +28,56 @@
             </div>
         </div>
     </div>
+
+
     <header class="header">
         <div class="header-section">
             <img src="src/logo.png" alt="Logo" height="50">
         </div>
         <div class="header-section switch">
-            <div>Dark<input type="checkbox" id="darkSwitch">Light</div>
+            <a href="#">Projects</a>
+            <a href="#">Contact</a>
+            <div class="dl-switch"><i class="fa-solid fa-sun"></i><input type="checkbox" id="darkSwitch"><i class="fa-solid fa-moon"></i></div>
         </div>
     </header>
 
-    <button type="button" class="btn btn-project" data-toggle="modal" data-target="#exampleModal">
+
+    <div class="banner p-3 p-md-5 m-md-3 text-center">
+      <div class="col-md-5 p-lg-5 mx-auto my-5">
+        <h1 class="display-4 font-weight-normal">My Portfolio</h1>
+        <p class="lead font-weight-normal">Welcome to my portfolio! I'm a web designer and developer studying IT & Media at the Fontys hogescholen, Eindhoven. With expertise in front-end and back-end technologies, I create innovative designs and develop user-friendly web applications for clients. Check out my portfolio to see some of my work!</p>
+        <button type="button" class="btn btn-project" data-toggle="modal" data-target="#exampleModal">
         Read more
-    </button>
+        </button>
+      </div>
+      <div class="product-device box-shadow d-none d-md-block"></div>
+      <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
+    </div>
+
+    <div class="projects col-10">
+        <div class="projects-intro">
+            <h3>Deliverables</h3>
+            <p>Here you can find an overview of all the products that were made during semester 6. Use the filter below to find the results you want.</p>
+            <div class="filter">
+                <div>Personal project</div>
+                <div>Group project</div>
+                <div>International project</div>
+            </div>
+        </div>
+        <br>
+        <div class="projects-overview col-12">
+
+        </div>
+    </div>
+
+
   
 </body>
+<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/less"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/js/all.min.js" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="js/main.js"></script>
 </html>
