@@ -10,3 +10,32 @@ $('#darkSwitch').click(function(){
     }
 });
 
+$('.deliverable').click(function(){
+    showModal();
+})
+
+$('.modal-overlay').click(function(){
+    hideModal();
+})
+
+$('.close-btn').click(function(){
+    hideModal();
+})
+
+
+
+
+function showModal(){
+    $('.custom-modal').css('display', 'block');
+    $('.modal-overlay').css('display', 'block');
+
+    $( ".blur" ).css('filter', 'blur(10px)');
+}
+
+function hideModal(){
+    $('.custom-modal').css('display', 'none');
+    $('.modal-overlay').css('display', 'none');
+
+    $( ".blur" ).css('filter', 'blur(0)');
+}
+
