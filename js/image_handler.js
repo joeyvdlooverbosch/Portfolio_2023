@@ -279,7 +279,7 @@ class Slider {
 			scaleX: 0,
 			backgroundColor: this.randomBg,
 		});
-		gsap.set(this.activeMarquee, { color: this.randomColor });
+		gsap.set(this.activeMarquee, { color: '#33D98F' });
 	}
 
 	animateSlide(direction, fn) {

@@ -108,27 +108,27 @@
             <div class="marquee__wrapper">
                 <div class="marquees">
                     <div class="marquee">
-                        <div class="item" data-word="DEFINE" data-number="01"></div>
-                        <div class="item" data-word="DEFINE" data-number="01"></div>
-                        <div class="item" data-word="DEFINE" data-number="01"></div>
+                        <div class="item" data-word="DISCOVER" data-number="01"></div>
+                        <div class="item" data-word="DISCOVER" data-number="01"></div>
+                        <div class="item" data-word="DISCOVER" data-number="01"></div>
                     </div>
 
                     <div class="marquee">
-                        <div class="item" data-word="RIVER" data-number="02"></div>
-                        <div class="item" data-word="RIVER" data-number="02"></div>
-                        <div class="item" data-word="RIVER" data-number="02"></div>
+                        <div class="item" data-word="DEFINE" data-number="02"></div>
+                        <div class="item" data-word="DEFINE" data-number="02"></div>
+                        <div class="item" data-word="DEFINE" data-number="02"></div>
                     </div>
 
                     <div class="marquee">
-                        <div class="item" data-word="VALLEY" data-number="03"></div>
-                        <div class="item" data-word="VALLEY" data-number="03"></div>
-                        <div class="item" data-word="VALLEY" data-number="03"></div>
+                        <div class="item" data-word="DEVELOP" data-number="03"></div>
+                        <div class="item" data-word="DEVELOP" data-number="03"></div>
+                        <div class="item" data-word="DEVELOP" data-number="03"></div>
                     </div>
 
                     <div class="marquee">
-                        <div class="item" data-word="FOREST" data-number="04"></div>
-                        <div class="item" data-word="FOREST" data-number="04"></div>
-                        <div class="item" data-word="FOREST" data-number="04"></div>
+                        <div class="item" data-word="DELIVER" data-number="04"></div>
+                        <div class="item" data-word="DELIVER" data-number="04"></div>
+                        <div class="item" data-word="DELIVER" data-number="04"></div>
                     </div>
                 </div>
             </div>
