@@ -56,7 +56,7 @@
             <h2>INDIVIDUAL PROJECT</h2>
             <br>
             <p>
-            Check out my personal portfolio project, created as part of a 4-week school project. I used the double diamond method to design, research, prototype, realize, and validate the website. 
+            Check out my personal portfolio project, created as part of a 4-week school project. I used the double diamond method to design, research, prototype, realize, and validate the website that you are on right now. 
             <br><br>
             The result is a user-friendly and visually appealing showcase of my skills and experience. Use the image slider to get a feeling of the proces that was undertaken.
             </p>
@@ -150,6 +150,8 @@
             <div class="col-8 d-flex lead-wrapper">
                 <p class="lead">INDIVIDUAL PROJECT EVIDENCE</p>
                 <h2 class="title">Creation of a professional portfolio website</h2>
+                <p>Here you can find all the products, prototypes and research documents that were made to bring this website to life.
+                </p>
             </div>
 
         </div>
