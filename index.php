@@ -377,11 +377,11 @@
 
     <div class="contact col-12">
         <div class="row">
-            <!-- <div class="col-12 content">
+            <div class="col-12 content">
                 <h2>Contact me</h2>
                 <p>Use the button below to send me an email.</p>
-                <a href="#" class="email">Contact</a>
-            </div> -->
+                <a href="mailto:465420@student.fontys.nl" target="_blank" class="email">Contact</a>
+            </div>
         </div>
     </div>
 </div>
