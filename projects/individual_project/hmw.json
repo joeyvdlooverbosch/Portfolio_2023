@@ -1,0 +1,57 @@
+{
+    "preface":      "As a web developer, creating a personal portfolio website is an essential part of showcasing your skills and experience. In this ideation session, we will use the Double Diamond methodto generate ideas and solutions to common problems faced during the creation of a personal portfolio website.",
+    "title"  : "Ideation Session & HMW-Questions - <i class='fa-solid fa-scissors'></i>",
+    "sub_title": "Workshop research to determine technical solutions.",
+    "method":       "For this research the core principles of the CMD-methods pack are upheld. These being: “Generate and develop new ideas.”",
+    "research":     "What are the key elements and best practices for designing an effective and professional portfolio website for individuals in the field of media design?",
+    "findings":     "Many interesting ideas were thought of, you can read through them using the link below.",
+    "findings_url": "https://i465420.hera.fhict.nl/docs/HMW-Questions%20&%20Ideation%20session%20(1).pdf",
+    "conclusion":   "By using an ideation session, we were able to generate a broad range of ideas and solutions to common problems faced during the creation of a personal portfolio website. By focusing on key challenges and using HMW questions, we were able to develop effective solutions that meet our objectives while staying within our tight deadline.",
+    "sources": [
+      {
+        "title": "Content Marketing Institute. (2019). How to prioritize content.",
+        "url": "https://contentmarketinginstitute.com/2019/07/how-to-prioritize-content/"
+      },
+      {
+        "title": "Creative Bloq. (2020). The importance of high-quality visuals in web design.",
+        "url": "https://www.creativebloq.com/web-design/importance-high-quality-visuals-web-design-121517498"
+      },
+      {
+        "title": "Creative Bloq. (2020). 15 tips for creating a winning design portfolio.",
+        "url": "https://www.creativebloq.com/advice/15-tips-for-creating-a-winning-design-portfolio"
+      },
+      {
+        "title": "Creative Bloq. (2021). The 20 best portfolio websites. ",
+        "url": "https://www.creativebloq.com/inspiration/best-portfolio-websites-912833"
+      },
+      {
+        "title": "Adobe XD Ideas. (2020). 7 steps to creating a winning UX portfolio.",
+        "url": "https://xd.adobe.com/ideas/career-tips/ux-design/7-steps-to-creating-a-winning-ux-portfolio/"
+      },
+      {
+        "title": "HubSpot. (2021). How to choose a color scheme for your website.",
+        "url": "https://blog.hubspot.com/marketing/color-scheme-design"
+      },
+      {
+        "title": "Nielsen Norman Group. (2020). Content prioritization: A plan for getting your priorities straight.",
+        "url": "https://www.nngroup.com/articles/content-prioritization-plan/"
+      },
+      {
+        "title": "SitePoint. (2020). 10 tips for designing a great web navigation system.",
+        "url": "https://www.sitepoint.com/great-web-navigation-tips/"
+      },
+      {
+        "title": "UX Planet. (2021). 7 tips for designing navigation menus.",
+        "url": "https://uxplanet.org/7-tips-for-designing-navigation-menus-af36b0cdd537"
+      },
+      {
+        "title": "WebsiteSetup. (2020). What is responsive web design? Explained with examples!",
+        "url": "https://websitesetup.org/what-is-responsive-web-design/"
+      },
+      {
+        "title": "HubSpot. (2021). Why responsive web design is important and Google approved.",
+        "url": "https://www.hubspot.com/website/why-responsive-web-design-is-important"
+      }
+    ]
+  }
+  

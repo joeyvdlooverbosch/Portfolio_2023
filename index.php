@@ -17,12 +17,52 @@
         <div class="modal-wrapper">
             <div class="row row-lead">
                 <div class="lead">
-                    <p>TREND ANALYSIS</p>
-                    <h2>Researching the latest trends</h2>
+                    <p class="json-subtitle"></p>
+                    <h2 class="json-title"></h2>
                 </div>
             </div>
             <div class="row row-scroll">
-
+                <div class="project-row">
+                    <div class="content">
+                        <h2>Preface</h2>
+                        <p class="json-preface"></p>
+                    </div>
+                </div>
+                <div class="project-row">
+                    <div class="content">
+                        <h2>Method & Approach</h2>
+                        <p class="json-method"></p>
+                    </div>
+                </div>
+                <div class="project-row">
+                    <div class="content">
+                        <h2>Research Question</h2>
+                        <p class="json-research-question"></p>
+                    </div>
+                </div>
+                <div class="project-breaker"></div>
+                <div class="project-row mb-4">
+                    <div class="content">
+                        <h2>Findings</h2>
+                        <p class="json-findings"></p>
+                        <a href="#" class="json-findings-url" target="_blank">View Document - <i class="fa-solid fa-file-pdf"></i></a>
+                    </div>
+                </div>
+                <div class="project-breaker"></div>
+                <div class="project-row">
+                    <div class="content">
+                        <h2>Conclusion</h2>
+                        <p class="json-conclusion"></p>
+                    </div>
+                </div>
+                <div class="project-row">
+                    <div class="content">
+                        <h2>Sources</h2>
+                        <ul class="sources-ul">
+                            
+                        </ul>
+                    </div>
+                </div>
             </div>
             <div class="row row-close">
                 <div class="close-btn">Close</div>
@@ -31,26 +71,38 @@
     </div>
     <div class="modal-overlay"></div>
     <div class="blur">
-    <header class="header">
-        <div class="header-section">
-            <img src="src/logo.png" alt="Logo" height="50">
-        </div>
-        <div class="header-section switch">
-            <a href="#">Projects</a>
-            <a href="#">Contact</a>
-            <div class="dl-switch"><i class="fa-solid fa-sun"></i><input type="checkbox" id="darkSwitch"><i class="fa-solid fa-moon"></i></div>
-        </div>
-    </header>
+
    
     <div class="banner col-12">
-        <div class="row">
-            dwada
+        <a class="scrollto" href="#op"><img src="src/scroll-down-arrow.gif" alt=""></a>
+        <div class="socials">
+            <a href="https://www.instagram.com/joeylooverbosch/?hl=en" target="_blank">INSTAGRAM <i class="fa-brands fa-square-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/joey-v-638597141/" target="_blank">LINKEDIN <i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/joeyvdlooverbosch/Portfolio_2023" target="_blank">GITHUB <i class="fa-brands fa-github"></i></a>
+        </div>
+        <div class="row row-banner">
+            <div class="left">
+                <div class="wrapper">
+                    <p class="lead">I'm Joey van de Looverbosch, web designer and programmer.</p>
+                    <h1>I love to create</h1>
+                    <p class="lead-s">Get to know more about me and the projects I have created on this portfolio website.</p>
+                    <a  href="mailto:465420@student.fontys.nl">Contact</a>
+
+                    <!-- <svg class="arrows-2">
+                        <path class="a1" d="M0 0 L30 32 L60 0"></path>
+                        <path class="a2" d="M0 20 L30 52 L60 20"></path>
+                        <path class="a3" d="M0 40 L30 72 L60 40"></path>
+                    </svg> -->
+                </div>
+            </div>
+            <div class="right"><img src="src/clipped.png" alt="">
+        </div>
         </div>
     </div>
 
 
 
-    <div class="invidvidual-project-visual col-12">
+    <div class="invidvidual-project-visual col-12" id="op">
         <div class="content">
             <p>Learn more about the</p>
             <h2>INDIVIDUAL PROJECT</h2>
@@ -81,21 +133,21 @@
                                 <img src="src/mockup1.png" />
                             </div>
                         </div>
+                        <!-- <div class="slide">
+                            <div class="slide__img">
+                                <img src="src/" />
+                            </div>
+                        </div> -->
                         <div class="slide">
                             <div class="slide__img">
-                                <img src="src/mockup1.png" />
+                                <img src="src/mockup2.png" />
                             </div>
                         </div>
-                        <div class="slide">
-                            <div class="slide__img">
-                                <img src="https://source.unsplash.com/-heLWtuAN3c" />
-                            </div>
-                        </div>
-                        <div class="slide">
+                        <!-- <div class="slide">
                             <div class="slide__img">
                                 <img src="https://source.unsplash.com/PP8Escz15d8" />
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="transition-slide"></div>
                 </div>
@@ -119,17 +171,17 @@
                         <div class="item" data-word="DEFINE" data-number="02"></div>
                     </div>
 
-                    <div class="marquee">
+                    <!-- <div class="marquee">
                         <div class="item" data-word="DEVELOP" data-number="03"></div>
                         <div class="item" data-word="DEVELOP" data-number="03"></div>
                         <div class="item" data-word="DEVELOP" data-number="03"></div>
-                    </div>
+                    </div> -->
 
-                    <div class="marquee">
+                    <!-- <div class="marquee">
                         <div class="item" data-word="DELIVER" data-number="04"></div>
                         <div class="item" data-word="DELIVER" data-number="04"></div>
                         <div class="item" data-word="DELIVER" data-number="04"></div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -138,7 +190,7 @@
                 <div class="progress">
                     <span></span>
                 </div>
-                <span class="slide-num">04</span>
+                <span class="slide-num">02</span>
             </div>
         </div>
     </div>
@@ -164,8 +216,8 @@
                     <div class="content">
                         <p class="lead">Discovering the issue</p>
                         <ul>
-                            <li class="deliverable"><i class="fa-solid fa-magnifying-glass-chart mr-2"></i>Trend Analysis</li>
-                            <li class="deliverable"><i class="fa-solid fa-clipboard-question mr-2"></i>Target Audience Interview</li>
+                            <li class="deliverable" id="individual_project/trend_analysis.json"><i class="fa-solid fa-magnifying-glass-chart mr-2"></i>Trend Analysis</li>
+                            <li class="deliverable" id="individual_project/expert_interview.json"><i class="fa-solid fa-clipboard-question mr-2"></i>Target Audience Interview</li>
                         </ul>
                     </div>
                 </div>
@@ -174,12 +226,11 @@
                         <p class="accent">02</p><p>Define Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Discovering the issue</p>
+                        <p class="lead">Defining the approach</p>
                         <ul>
-                            <li class="deliverable"><i class="fa-solid fa-person-circle-question mr-2"></i></i>HMW-questions</li>
-                            <li class="deliverable"><i class="fa-solid fa-brain mr-2"></i>Ideation session</li>
-                            <li class="deliverable"><i class="fa-regular fa-clone mr-2"></i>Low-fid wireframes</li>
-                            <li class="deliverable"><i class="fa-solid fa-clone mr-2"></i>High-fid wireframes</li>
+                            <li class="deliverable" id="individual_project/hmw.json"><i class="fa-solid fa-person-circle-question mr-2"></i></i>HMW-questions</li>
+                            <li class="deliverable" id="individual_project/hmw.json"><i class="fa-solid fa-brain mr-2"></i>Ideation session</li>
+                            <a  href="https://www.figma.com/file/zsbRC7mvi082a7wL7ckwVo/Untitled?node-id=0%3A1&t=duJAj5Hc0JksKf9g-1" target="_blank"><i class="fa-regular fa-clone mr-2"></i>Low-fid wireframes</a>
                         </ul>
                     </div>
                 </div>
@@ -188,7 +239,7 @@
                         <p class="accent">03</p><p>Develop Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Discovering the issue</p>
+                        <p class="lead">Creating the website</p>
                         <ul>
                             <li><a target="_blank" href="https://github.com/joeyvdlooverbosch/Portfolio_2023"><i class="fa-brands fa-github mr-2"></i>GIT Repository</a></li>
                             <li class="deliverable"><i class="fa-solid fa-desktop mr-2"></i>Portfolio website</li>
@@ -200,9 +251,9 @@
                         <p class="accent">04</p><p>Deliver Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Discovering the issue</p>
+                        <p class="lead">Validating and launching the website</p>
                         <ul>
-                            <li class="deliverable"><i class="fa-solid fa-flask-vial mr-2"></i>Usability test</li>
+                            <li class="deliverable" id="individual_project/usability_test.json"><i class="fa-solid fa-flask-vial mr-2"></i>Usability test</li>
                         </ul>
                     </div>
                 </div>
@@ -341,9 +392,6 @@
 		<span></span>
 	</div>
 </div>
-  
-</body>
-<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/less"></script>
@@ -351,7 +399,9 @@
 <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.0.3/tilt.jquery.js"></script>
 <script src="js/main.js"></script>
 <script src="js/grained.js"></script>
 <script src="js/image_handler.js"></script>
+</body>
 </html>

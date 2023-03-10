@@ -8,6 +8,8 @@
 @font-light: @background-light;
 @font-accent: #4679CE;
 
+html                            {scroll-behavior: smooth;}
+
 body                            { transition: 0.25s; max-width: 100%; overflow-x: hidden; font-family: 'Cabin', sans-serif; background: @background-light; color: @font-dark; margin: 0; padding: 0;
     &.dark-body                 { transition: 0.25s; background: @background-dark; color: @font-light !important; 
         a                       { color: @font-light !important;  }
@@ -15,20 +17,39 @@ body                            { transition: 0.25s; max-width: 100%; overflow-x
 }
 
 .modal-overlay                  { transition: .25s; position: fixed; display: none; width: 100vw; height: 115vh; margin-top: -10vh; background: black; opacity: 0.35; z-index: 1000;}
-.custom-modal                   { transition: .25s; position: fixed; display: none; z-index: 10000;  border-radius: 5px; background: @background-light; width: 80vw; height:85vh; left: 50%; transform: translate(-50%, 0);
+.custom-modal                   { transition: .25s; margin-top: 1rem; position: fixed; display: none; z-index: 10000;  border-radius: 5px; background: @background-light; width: 95vw; height:95vh; left: 50%; transform: translate(-50%, 0);
    .modal-wrapper               { width: 100%; height: 100%;display: flex; justify-content: space-between; align-items: center; flex-direction: column;
     .row-close                  { display: flex; justify-content: flex-end; align-items: center; width: 90%; margin: 0 auto;
         .close-btn              { transition: .25s; border: solid black 2px; border-radius: 5px; padding: 0 .5rem; margin-bottom: 1rem; cursor: pointer;
             &:hover             { transition: .25s; background-color: black; color: white;}
         }
     }
-    .row-lead                   { width: 100%; display: flex; justify-content: flex-start; align-items: center; 
-        .lead                   { display: flex; justify-content: space-between; flex-direction: column; align-items: flex-start; margin-left: 1rem; margin-top: 1rem;
+    .row-lead                   { width: 86%; display: flex; justify-content: flex-start; align-items: center;  margin: 0 auto;
+        .lead                   { display: flex; justify-content: space-between; flex-direction: column; align-items: flex-start; margin-top: 1rem;
             p                   { font-size: 20px; padding: 0; margin: 0; opacity: .8; }
+            .library            { width: 25px; height:25px; border-radius: 50%; background: #A9CF3C; color: #fff; padding: .25rem;}  
+            .lab                { width: 25px; height:25px; border-radius: 50%; background: #8986C0; color: #fff; padding: .25rem;}
+            .workshop           { background-color: #27C1F0; width: 25px; height:25px; border-radius: 50%; color: #fff; padding: .25rem;}
         }
     }
-    .row-scroll                 { overflow-y: scroll; background-color: red; width: 100%;
-
+    .row-scroll                 { overflow-y: scroll; width: 90%; margin: 0 auto; margin-bottom: 1rem; margin-top: 1rem;
+        .project-breaker        { width: 90%; margin-left: 2rem;height: 2px; background-color: @background-dark; border-radius: 5px; margin-bottom: 1rem;}
+        .project-row            { width: 95%; display: flex; justify-content: flex-start; align-items: center;         
+            &.broad             { flex-direction: column; margin-top: 1rem; margin-left : 2.05rem;  border-left : solid @background-dark 7px; justify-content :space-between !important; box-shadow: 2px 2px 5px 1px rgba(0,0,0,0.4);}
+            .content            { width: 75%; margin-left: 2rem;
+                
+                .json-findings-url  { transition: .25s; border: solid @background-dark 2px; border-radius: 5px; padding: .25rem; color: @background-dark; text-decoration: none; 
+                    &:hover     { transition: .25s; background: @background-dark; color: @background-light; }
+                }
+                &.broad         { width: 95%; }
+            }
+            .img                { width: 45%; 
+                &.broad         { width: 100%; display: flex; justify-content: space-between; align-items: center;
+                    .wrapper    { width: 45%; margin-left: 1rem; }
+                    img         { max-width: 100%; }
+                }
+            }
+        }
     }
    }
 
@@ -43,8 +64,52 @@ body                            { transition: 0.25s; max-width: 100%; overflow-x
     }
 }
 
-.banner                         { height: 100vh; margin-top: 50px;
 
+.banner                         { height: 100vh;  background-image: url(../src/pattern.svg); background-size: cover;
+    .scrollto                   { cursor: pointer; position: absolute; bottom: -40px; left: 50%; transform: translate(-50%, -50%); display: flex; justify-content: center; align-items: center;
+        img                     { transition: .25s; width: 25%;  
+        &:hover                 { transition: .25s; width: 27.5%; }
+        }
+    }
+    .socials                    { position: absolute;  transform: rotate(-270deg); display: flex; top: 50%; right: -70px; 
+        a                       { transition: .25s; padding:0; margin-left: 1rem; opacity: 0.5; text-decoration: none; color: @background-dark;
+            &:hover             { transition: .25s; opacity: 1.0; }
+        }
+    }
+    .row-banner                 { display: flex; justify-content: space-between; align-items: center; flex-direction: row; 
+        .left                   { width: 50%; height: 100vh;  display: flex; justify-content: center; align-items: center; flex-direction: column;
+            .wrapper            { width: 65%;
+                p, h1               { text-align: left; width: 100%; }
+                a                   { transition: .25s; border: solid @background-dark 1px; border-radius: 5px; text-decoration: none; color: @background-dark; padding: .25rem .5rem;
+                    &:hover         { transition: .25s;background-color: @background-dark; color: @background-light; }
+                }
+                .lead               { margin-bottom: 0.25rem; }
+                h1                  {}
+                .lead-s             { opacity: .8; }
+            }
+
+        }
+        .right                  { width: 50%; height: 100vh;  display: flex; justify-content: center; align-items: flex-end;
+            img                 { width: 100%; margin-left: 3rem; margin-bottom: -2rem; }
+        }
+    }
+    @media only screen and (max-width: 600px){ 
+        .row-banner                 { flex-direction: column; 
+            .left                   { width: 90%; height: 45vh;
+                .wrapper            { justify-content: center; align-items: center;
+                    p, a, h1        { text-align: center; } 
+                    a               { margin-left: 38%;}
+                }
+                
+            }
+            .right                  { width: 95%; height: 45vh; 
+                img                 { margin-bottom: -6rem; margin-left: 1rem; }
+            }
+        }
+        .socials                    { transform: rotate(0); top: 49%; right: 50px;
+            a                       {  }
+        } 
+    }
 }
 
 .international-project          { height: 75vh; background: @background-light;  color: @background-dark; padding-top: 5rem; padding-bottom: 0;
@@ -175,6 +240,20 @@ input                           { position: relative; margin: 0 10px;width: 34px
     }
 }
 
+.arrows-2{
+    scale: 0.6;
+	width: 60px;
+	height: 72px;
+}
+
+.arrows-2 path {
+	stroke: @background-dark;
+	fill: transparent;
+	stroke-width: 3px;	
+	animation: arrow 2s infinite;
+	-webkit-animation: arrow 2s infinite; 
+}
+
 .arrows {
     scale: 0.6;
 	width: 60px;
@@ -230,6 +309,7 @@ input                           { position: relative; margin: 0 10px;width: 34px
         display: flex;
         justify-content: center;
         align-items: center;
+        z-index: 100000000000;
     }
     
     .slider--container {
@@ -301,7 +381,7 @@ input                           { position: relative; margin: 0 10px;width: 34px
                     img {
                         width: 100%;
                         height: 100%;
-                        object-fit: cover;
+                        object-fit: contain;
                     }
                 }
     

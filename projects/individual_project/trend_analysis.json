@@ -1,0 +1,29 @@
+{
+    "preface": "The web design industry is constantly evolving, and it is essential to stay up to date with the latest trends to create effective portfolio websites. This trend analysis aims to identify some of the most popular web design trends for portfolio websites in 2022/2023, based on research and analysis of recent developments in the industry.",
+    "title"  : "Trend Analysis - <i class='fa-solid fa-glasses library'></i>",
+    "sub_title": "Researching the latest trends",
+    "method": "The web design industry is constantly evolving, and it is essential to stay up to date with the latest trends to create effective portfolio websites. This trend analysis aims to identify some of the most popular web design trends for portfolio websites in 2022/2023, based on research and analysis of recent developments in the industry.",
+    "research": "What are the current and emerging web design trends for portfolio websites in 2022/2023, and how can these trends be effectively incorporated to enhance user experience and engagement?",
+    "findings":     "In the trend analysis a few things were found that served to be usefull for the development of this website. If you'd like to read more about this you can click the button below.",
+    "findings_url": "https://i465420.hera.fhict.nl/docs/Trend%20Analysis%20-%20Web%20Trends%20Portfolio%20-%202022_2023.pdf",
+    "conclusion":   "In this research, we identified the most popular web design trends for portfolio websites in 2022/2023 using the CMD Methods pack.<br><br> The trends identified include dark/light mode, minimalism, AI-generated color palettes, SVG file format, and loading animations.<br><br>These trends reflect the increasing focus on user experience and the use of new technology to enhance design. It is important to stay up to date with these trends to create effective and engaging portfolio websites.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      },
+      {
+        "title": "Huang, L. (2023, February 13). 11 engaging web design trends for 2023. Webflow.",
+        "url": "https://webflow.com/blog/web-design-trends-2023"
+      },
+      {
+        "title": "Schäferhoff, N. (2023, January 4). Web Design Trends 2023: A Preview of the Future of Web Design. Torque.",
+        "url": "https://torquemag.io/2023/01/web-design-trends-2023/"
+      },
+      {
+        "title": "T, W. (2022, November 30). Top 8 Web Design Trends 2023. UIUX Trend.",
+        "url": "https://uiuxtrend.com/top-web-design-trends-2023/"
+      }
+    ]
+  }
+  

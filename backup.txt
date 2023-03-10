@@ -1,0 +1,61 @@
+<div class="project-row broad">
+                    <div class="img broad">
+                        <div class="wrapper">
+                            <h3>Dark/light mode</h3>
+                            <p>A trend that has already been used for several years now, but is getting more and more prevalent is the option of dark/light mode. This is a form of personalized UX that users appreciate.</p>
+                        </div>
+                        <img src="src/dark-light-finding-1.png" alt="" width="45%">
+                        
+                    </div>
+                </div>
+                <div class="project-row broad">
+                    <div class="img broad">
+                        <div class="wrapper">
+                        <h3>Minimalism</h3>
+                        <p>A trend that’s especially popular on portfolio websites is the use of minimalistic design principles. Minimalism puts the focus on the content, and less on the intricate design of a site.
+                        </p>
+                        </div>
+                        <img src="src/finding-2.png" alt="" width="45%">
+                        
+                    </div>
+                </div>
+                <div class="project-row broad">
+                    <div class="img broad">
+                        <div class="wrapper">
+                        <h3>AI generated color palette</h3>
+                        <p>The use of AI is becoming more and more prevalent, this is the same for the web design world. With the use of AI an optimal color palette can now be generated.
+                        </p>
+                        </div>
+                        <img src="src/finding-3.png" alt="" width="45%">
+
+                    </div>
+                </div>
+                <div class="project-row broad">
+                    <div class="img broad">
+                        <div class="wrapper">
+                            <h3>SVG > JPG/PNG</h3>
+                            <p>SVG or Scalable Vector Graphics is a vector file format that can be conveniently resized without losing its quality. Therefore, SVG files are usually small even for complex graphics or images. This file format is ideal for logos, infographics, or illustrations.</p>
+                        </div>
+                        <img src="src/findings4.png" alt="" width="45%">
+    
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+                    <header class="header">
+        <div class="header-section">
+            <img src="src/logo.png" alt="Logo" height="50">
+        </div>
+        <div class="header-section switch">
+            <a href="#">Projects</a>
+            <a href="#">Contact</a>
+            <!-- <div class="dl-switch"><i class="fa-solid fa-sun"></i><input type="checkbox" id="darkSwitch"><i class="fa-solid fa-moon"></i></div> -->
+        </div>
+    </header>
