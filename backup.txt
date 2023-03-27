@@ -7,7 +7,7 @@
                         <img src="src/dark-light-finding-1.png" alt="" width="45%">
                         
                     </div>
-                </div>
+                </div>d
                 <div class="project-row broad">
                     <div class="img broad">
                         <div class="wrapper">
