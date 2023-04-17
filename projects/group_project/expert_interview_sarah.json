@@ -1,0 +1,17 @@
+{
+    "preface":      "This field research aims to get a more technical insight into PARS from an active developer.",
+    "title"  : "Expert Interview - <i class='fa-solid fa-glasses library'></i>",
+    "sub_title": "Field research to learn more about PARS as a software",
+    "method":       "To approach this research the guidelines of the CMD Methods pack will be used. These are as follows: “Invite representative participants, make them feel comfortable and ask questions about your topic of interest, for example product usage.”<br><br>(CMD Methods Pack, 2023)",
+    "research":     "Research question 2B: How does PARS currently work?",
+    "findings":     "During the interview PARS-developer Sarah gave an expansive demo of PARS. She showcased most features available, and also highlighted some interesting aspects that could become a part of the group assignment. For the full interview and the notes click the link below:",
+    "findings_url": "https://docs.google.com/document/d/1B4XG9nZt8cJ_qGptk4e3r3YBVT5UKM1QR8nZj-JJy9c/edit?usp=sharing",
+    "conclusion":   "The goal of this expert interview was to recieve a technical demo from an active PARS-developer, to in-turn learn more about how PARS works, and what features it currently consists of.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      }
+    ]
+  }
+  

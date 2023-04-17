@@ -9,6 +9,37 @@
     <title>Portfolio 2023</title>
 </head>
 <body>
+
+<label for="check" class="hamburger">
+      <input type="checkbox" id="check" /> 
+      <span></span>
+      <span></span>
+      <span></span>
+</label>
+<div class="open"></div>
+<div class="custom-nav">
+    <div class="nav">
+        <div class="nav-inner">
+            <div class="nav-item scroll-individual">
+                Individual Project
+            </div>
+            <div class="nav-item scroll-group">
+                Group Project
+            </div>
+            <div class="nav-item disabled scroll-individual">
+                International Project
+            </div>
+            <div class="nav-item">
+                <a href="mailto:465420@student.fontys.nl" target="_blank" class="email">Contact</a>
+            </div>
+        </div>
+        
+    </div>
+    
+</div>
+
+
+
 <div class="custom-cursor">
 	<div class="cursor cursor--large"></div>
 	<div class="cursor cursor--small"></div>
@@ -103,101 +134,39 @@
 
 
     <div class="invidvidual-project-visual col-12" id="op">
+        <div class="row d-flex col-8 visual-wrapper">
         <div class="content">
+            
             <p>Learn more about the</p>
             <h2>INDIVIDUAL PROJECT</h2>
             <br>
             <p>
             Check out my personal portfolio project, created as part of a 4-week school project. I used the double diamond method to design, research, prototype, realize, and validate the website that you are on right now. 
             <br><br>
-            The result is a user-friendly and visually appealing showcase of my skills and experience. Use the image slider to get a feeling of the proces that was undertaken.
+            The result is a user-friendly and visually appealing showcase of my skills and experience.
             </p>
             <br>
-            <svg class="arrows">
+            <a href="https://i465420.hera.fhict.nl/docs/Reading%20Guide%20-%20Personal%202023.pdf" target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
+
+            <br>
+            <!-- <svg class="arrows">
                 <path class="a1" d="M0 0 L30 32 L60 0"></path>
                 <path class="a2" d="M0 20 L30 52 L60 20"></path>
                 <path class="a3" d="M0 40 L30 72 L60 40"></path>
-            </svg>
+            </svg> -->
         </div>
+
+        <img src="src/mockup2.png" width="550" alt="" class="img-mobile">
+
         <div id="app">
-        <div class="slider--container">
-            <div class="slider__wrapper">
-                <div class="slider__btn--container">
-                    <button class="btn prev">Prev</button>
-                </div>
-
-                <div class="slider">
-                    <div class="slides__wrapper">
-                        <div class="slide">
-                            <div class="slide__img">
-                                <img src="src/mockup1.png" />
-                            </div>
-                        </div>
-                        <!-- <div class="slide">
-                            <div class="slide__img">
-                                <img src="src/" />
-                            </div>
-                        </div> -->
-                        <div class="slide">
-                            <div class="slide__img">
-                                <img src="src/mockup2.png" />
-                            </div>
-                        </div>
-                        <!-- <div class="slide">
-                            <div class="slide__img">
-                                <img src="https://source.unsplash.com/PP8Escz15d8" />
-                            </div>
-                        </div> -->
-                    </div>
-                    <div class="transition-slide"></div>
-                </div>
-
-                <div class="slider__btn--container">
-                    <button class="btn next">Next</button>
-                </div>
-            </div>
-
-            <div class="marquee__wrapper">
-                <div class="marquees">
-                    <div class="marquee">
-                        <div class="item" data-word="DISCOVER" data-number="01"></div>
-                        <div class="item" data-word="DISCOVER" data-number="01"></div>
-                        <div class="item" data-word="DISCOVER" data-number="01"></div>
-                    </div>
-
-                    <div class="marquee">
-                        <div class="item" data-word="DEFINE" data-number="02"></div>
-                        <div class="item" data-word="DEFINE" data-number="02"></div>
-                        <div class="item" data-word="DEFINE" data-number="02"></div>
-                    </div>
-
-                    <!-- <div class="marquee">
-                        <div class="item" data-word="DEVELOP" data-number="03"></div>
-                        <div class="item" data-word="DEVELOP" data-number="03"></div>
-                        <div class="item" data-word="DEVELOP" data-number="03"></div>
-                    </div> -->
-
-                    <!-- <div class="marquee">
-                        <div class="item" data-word="DELIVER" data-number="04"></div>
-                        <div class="item" data-word="DELIVER" data-number="04"></div>
-                        <div class="item" data-word="DELIVER" data-number="04"></div>
-                    </div> -->
-                </div>
-            </div>
-
-            <div class="slider__progress--container">
-                <span class="slide-num current-slide">01</span>
-                <div class="progress">
-                    <span></span>
-                </div>
-                <span class="slide-num">02</span>
-            </div>
-        </div>
+       
+    </div>
     </div>
     </div>
 
 
-    <div class="individual-project col-12">
+
+    <div class="individual-project individual-scroll col-12">
         <div class="row">
             <div class="col-8 d-flex lead-wrapper">
                 <p class="lead">INDIVIDUAL PROJECT EVIDENCE</p>
@@ -216,8 +185,8 @@
                     <div class="content">
                         <p class="lead">Discovering the issue</p>
                         <ul>
-                            <li class="deliverable" id="individual_project/trend_analysis.json"><i class="fa-solid fa-magnifying-glass-chart mr-2"></i>Trend Analysis</li>
-                            <li class="deliverable" id="individual_project/expert_interview.json"><i class="fa-solid fa-clipboard-question mr-2"></i>Target Audience Interview</li>
+                         <a href="#individual_project/trend_analysis"><li class="deliverable" id="individual_project/trend_analysis.json"><i class="fa-solid fa-magnifying-glass-chart mr-2"></i>Trend Analysis</li></a>
+                            <a href="#individual_project/expert_interview"><li class="deliverable" id="individual_project/expert_interview.json"><i class="fa-solid fa-clipboard-question mr-2"></i>Target Audience Interview</li></a>
                         </ul>
                     </div>
                 </div>
@@ -228,9 +197,9 @@
                     <div class="content">
                         <p class="lead">Defining the approach</p>
                         <ul>
-                            <li class="deliverable" id="individual_project/hmw.json"><i class="fa-solid fa-person-circle-question mr-2"></i></i>HMW-questions</li>
-                            <li class="deliverable" id="individual_project/hmw.json"><i class="fa-solid fa-brain mr-2"></i>Ideation session</li>
-                            <a  href="https://www.figma.com/file/zsbRC7mvi082a7wL7ckwVo/Untitled?node-id=0%3A1&t=duJAj5Hc0JksKf9g-1" target="_blank"><i class="fa-regular fa-clone mr-2"></i>Low-fid wireframes</a>
+                            <a href="#individual_project/hmw"><li class="deliverable" id="individual_project/hmw.json"><i class="fa-solid fa-person-circle-question mr-2"></i></i>HMW-questions</li></a>
+                            <a href="#individual_project/hmw"><li class="deliverable" id="individual_project/hmw.json"><i class="fa-solid fa-brain mr-2"></i>Ideation session</li></a>
+                            <li class="deliverable-w"><a href="https://www.figma.com/file/zsbRC7mvi082a7wL7ckwVo/Untitled?node-id=0%3A1&t=duJAj5Hc0JksKf9g-1" target="_blank"><i class="fa-regular fa-clone mr-2"></i>Low-fid wireframes</a></li>
                         </ul>
                     </div>
                 </div>
@@ -241,8 +210,7 @@
                     <div class="content">
                         <p class="lead">Creating the website</p>
                         <ul>
-                            <li><a target="_blank" href="https://github.com/joeyvdlooverbosch/Portfolio_2023"><i class="fa-brands fa-github mr-2"></i>GIT Repository</a></li>
-                            <li class="deliverable"><i class="fa-solid fa-desktop mr-2"></i>Portfolio website</li>
+                            <li class="deliverable-w"><a target="_blank" href="https://github.com/joeyvdlooverbosch/Portfolio_2023"><i class="fa-brands fa-github mr-2"></i>GIT Repository</a></li>
                         </ul>
                     </div>
                 </div>
@@ -253,23 +221,62 @@
                     <div class="content">
                         <p class="lead">Validating and launching the website</p>
                         <ul>
-                            <li class="deliverable" id="individual_project/usability_test.json"><i class="fa-solid fa-flask-vial mr-2"></i>Usability test</li>
+                            <a href="#individual_project/usability_test"><li class="deliverable" id="individual_project/usability_test.json"><i class="fa-solid fa-flask-vial mr-2"></i>Usability test</li></a>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="group-project col-12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="invidvidual-project-visual group group-scroll col-12" id="op group">
+        <div class="row d-flex col-8 visual-wrapper">
+        <div class="content">
+            
+            <p>Learn more about the</p>
+            <h2>GROUP PROJECT</h2>
+            <br>
+            <p>
+            Here you can read all about the group project that I was a part of. You'll find all the deliverables here.
+            <br><br>
+            Check out the reading guide if you want to get a better understanding of the process that was undertaken to realize the end product.
+            </p>
+            <br>
+            <a href="https://i465420.hera.fhict.nl/docs/Reading%20Guide%20-%20Group%20Project%202023.pdf" target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
+
+            
+        </div>
+
+        <img src="src/wip.png" alt="" class="img-mobile">
+    </div>
+    </div>
+
+
+
+    <div class="individual-project group col-12">
         <div class="row">
             <div class="col-8 d-flex lead-wrapper">
-                <p class="lead">GROUP PROJECT</p>
-                <h2 class="title">T.B.D.</h2>
+                <p class="lead">GROUP PROJECT EVIDENCE</p>
+                <h2 class="title">Creation of a professional portfolio website</h2>
+                <p>Here you can find all the products, prototypes and research documents that were made to bring this website to life.
+                </p>
             </div>
 
         </div>
         <div class="row">
-            <div class="col-8 double-diamond-wrapper">
+            <div class="col-8 double-diamond-wrapper group">
                 <div class="double-diamond-phase">
                     <div class="phase">
                         <p class="accent">01</p><p>Discover Phase</p>
@@ -277,7 +284,11 @@
                     <div class="content">
                         <p class="lead">Discovering the issue</p>
                         <ul>
-       
+                            <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview_pieter.json"><i class="fa-solid fa-clipboard-question"></i> Expert Interview Stakeholder</li></a>
+                            <a href="#group_project/available_analysis"><li class="deliverable" id="group_project/available_analysis.json"><i class="fa-solid fa-magnifying-glass-chart"></i> Available Product Analysis</li></a>
+                            <a href="#group_project/expert_interview_sarah"><li class="deliverable" id="group_project/expert_interview_sarah.json"><i class="fa-solid fa-clipboard-question"></i> Expert Interview Developer</li></a>
+                            <a href="#group_project/trend"><li class="deliverable" id="group_project/trend.json"><i class="fa-solid fa-arrow-trend-up"></i> Trend Analysis</li></a>
+                            <a href="#group_project/interview_adminstrative"><li class="deliverable" id="group_project/interview_adminstrative.json"><i class="fa-solid fa-clipboard-question"></i> Interview Target Audience</li></a>
                         </ul>
                     </div>
                 </div>
@@ -286,9 +297,11 @@
                         <p class="accent">02</p><p>Define Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Discovering the issue</p>
+                        <p class="lead">Defining the approach</p>
                         <ul>
-         
+                        <!-- <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview.json"><i class="fa-solid fa-chalkboard-user"></i> Empathy Map</li></a>
+                        <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview.json"><i class="fa-solid fa-user"></i> Persona</li></a> -->
+                        <a href="#group_project/hmw"><li class="deliverable" id="group_project/hmw.json"><i class="fa-solid fa-brain"></i> HMW/Ideation</li></a>
                         </ul>
                     </div>
                 </div>
@@ -297,9 +310,9 @@
                         <p class="accent">03</p><p>Develop Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Discovering the issue</p>
+                        <p class="lead">Creating the website</p>
                         <ul>
-   
+                        <li class="deliverable" id="group_project/nothing.json">💻</li>
                         </ul>
                     </div>
                 </div>
@@ -308,16 +321,41 @@
                         <p class="accent">04</p><p>Deliver Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Discovering the issue</p>
+                        <p class="lead">Validating and launching the website</p>
                         <ul>
-                  
+                           
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="international-project col-12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <div class="international-project col-12">
         <div class="row">
             <div class="col-8 d-flex lead-wrapper">
                 <p class="lead">INTERNATIONAL PROJECT</p>
@@ -373,7 +411,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="contact col-12">
         <div class="row">

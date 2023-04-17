@@ -1,0 +1,25 @@
+{
+    "preface":      "Trend Analysis to research existing trends in attendence registration software.",
+    "title"  : "Trend Analysis - <i class='fa-solid fa-glasses library'></i>",
+    "sub_title": "Researching existing trends",
+    "method":       "To research the latest trends in attendence registration software, some liberty was taken in the search queries. Attendence registration isn't exactly a buzzing topic. So to help find design- and UX trends broader searchterms were used. The core principles of the CMD-Methods pack were still upheld.",
+    "research":     "Research question 2C: Which techniques are currently available and can be applied to improve PARS?",
+    "findings":     "Many interesting trends were found. A noticeable trend is the use of tooltips instead of complex user manuals. For all findings please read through the document below:",
+    "findings_url": "https://i465420.hera.fhict.nl/docs/Trendanalyse%202023.pdf",
+    "conclusion":   "The goal was to research the latest trends in attendence registration software, this was succesfully done by broadening the searchterms, and consulting many sources.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      },
+      {
+        "title": "McWatters, M. (2018, October 9). Don’t kill the modal - Made by TED - Medium. Medium.",
+        "url": "https://medium.com/made-by-ted/dont-kill-the-modal-daa3b4280d33#"
+      },
+      {
+        "title": "6 Trends in Employee Time and Attendance Tracking. (2023, January 18). Paychex.",
+        "url": "https://www.paychex.com/articles/hcm/latest-technology-track-time-att"
+      }
+    ]
+  }
+  

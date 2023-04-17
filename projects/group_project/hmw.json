@@ -1,0 +1,17 @@
+{
+    "preface": "Translating the pains into solutions",
+    "title"  : "HMW and ideation - <i class='fa-solid fa-scissors'></i>",
+    "sub_title": "Workshop research to turn the user's pains into approachable and reachable goals.",
+    "method":       "Using the pain points found during the interview held with the target audience. We come up with HMW-questions tackling said pain points. Then we use an ideation session to come up with realistic and achievable solutions.",
+    "research":     "Research question 2: Are there new or existing techniques that we can apply in PARS to improve the experience?",
+    "findings":     "My personal contribution to this document are all the HMW-questions for the adminstrative target audience, including the ideation session below it. For the whole document please use the link below:",
+    "findings_url": "https://i465420.hera.fhict.nl/docs/HMW-questions.pdf",
+    "conclusion":   "By using the pain points provided by the target audience we were able to generate ideas on how to actually solve them, slowly narrowing down the focuss of the end product.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      }
+    ]
+  }
+  

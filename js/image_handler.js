@@ -189,7 +189,7 @@ class Slider {
 		gsap.fromTo(
 			this.currentSlideImage,
 			{
-				scale: 1.4,
+				scale: 1.1,
 			},
 			{
 				duration: 1.5,
@@ -293,12 +293,12 @@ class Slider {
 		gsap.set(this.prevButton, { pointerEvents: "none" });
 		gsap.set(this.nextButton, { pointerEvents: "none" });
 		gsap.set(this.currentSlideImage, {
-			scale: 1.4,
+			scale: 1.0,
 		});
 
 		let tl = gsap.timeline();
 		tl.to(this.prevSlideImage, {
-			scale: 1.4,
+			scale: 1.0,
 		});
 
 		if (direction === "next") {
@@ -587,3 +587,5 @@ function loadSlider() {
 		slider.setRandomColor();
 	});
 }
+
+$(".transition-slide").css("display", "none");
