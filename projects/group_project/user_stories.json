@@ -1,0 +1,12 @@
+{
+  "preface": "Creating User Stories Based on Persona",
+  "title": "Creating User Stories Based on Persona <i class='fa-solid fa-palette color'></i>",
+  "sub_title": "Visualizing User Requirements through User Stories",
+  "method": "The purpose of creating user stories is to identify the requirements of the end users (teachers, administrative staff, students) based on their needs. This is done through interviews to understand their requirements. User stories help capture and visualize these requirements, allowing us to develop prototypes and visually represent the different needs.",
+  "research": "What user stories can be created for the 3 target groups (teachers, administrative staff, students)?",
+  "findings": "Administrative Staff - Based on Christina's persona, we create personalized user stories to better address their specific requirements. Read through all the findings using the button below.",
+  "findings_url": "https://i465420.hera.fhict.nl/docs/User Stories.pdf",
+  "conclusion": "By creating user stories based on Christina's persona, we have identified a range of requirements that address her specific needs. These user stories serve as a foundation for developing a prototype that caters to Christina's requirements, ensuring data retention, providing targeted search capabilities, offering clear instructions and explanations, and facilitating efficient management of sick notifications and student information.",
+  "sources": [  
+  ]
+}

@@ -233,14 +233,6 @@
 
 
 
-
-
-
-
-
-
-
-
     <div class="invidvidual-project-visual group group-scroll col-12" id="op group">
         <div class="row d-flex col-8 visual-wrapper">
         <div class="content">
@@ -302,6 +294,9 @@
                         <!-- <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview.json"><i class="fa-solid fa-chalkboard-user"></i> Empathy Map</li></a>
                         <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview.json"><i class="fa-solid fa-user"></i> Persona</li></a> -->
                         <a href="#group_project/hmw"><li class="deliverable" id="group_project/hmw.json"><i class="fa-solid fa-brain"></i> HMW/Ideation</li></a>
+                        <a href="#group_project/styleguide"><li class="deliverable" id="group_project/styleguide.json"><i class="fa-solid fa-palette"></i> Styleguide</li></a>
+                        <a href="#group_project/user_stories"><li class="deliverable" id="group_project/user_stories.json"><i class="fa-solid fa-person"></i> User Stories</li></a>
+                        <li class="deliverable-w"><a href="https://www.figma.com/file/c7hOBaFuvkPBy9gAD2FGpg/Prototypes?type=design&node-id=1%3A3&t=zLSugwAw4PhFvfOe-1" target="_blank"><i class="fa-regular fa-clone mr-2"></i>Prototypes</a></li>
                         </ul>
                     </div>
                 </div>
@@ -334,6 +329,91 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="invidvidual-project-visual intern col-12" id="op intern">
+        <div class="row d-flex col-8 visual-wrapper">
+        <div class="content">
+            
+            <p>Learn more about the</p>
+            <h2>INTERNATIONAL PROJECT</h2>
+            <br>
+            <p>
+            Here you can read all about the group project that I was a part of. You'll find all the deliverables here.
+            <br><br>
+            Check out the reading guide if you want to get a better understanding of the process that was undertaken to realize the end product.
+            </p>
+            <br>
+            <a href="https://i465420.hera.fhict.nl/docs/Reading%20Guide%20-%20Group%20Project%202023.pdf" target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
+
+            
+        </div>
+
+        <img src="src/int.png" alt="" class="img-mobile">
+    </div>
+    </div>
+
+
+
+    <div class="individual-project intern col-12">
+        <div class="row">
+            <div class="col-8 d-flex lead-wrapper">
+                <p class="lead">INTERNATIONAL PROJECT EVIDENCE</p>
+                <h2 class="title">Creation of a professional portfolio website</h2>
+                <p>Here you can find all the products, prototypes and research documents that were made to bring this website to life.
+                </p>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-8 double-diamond-wrapper intern">
+                <div class="double-diamond-phase">
+                    <div class="phase">
+                        <p class="accent">01</p><p>Intro Week</p>
+                    </div>
+                    <div class="content">
+                        <p class="lead">Getting to know the group</p>
+                        <ul>
+                        <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview_pieter.json"><i class="fa-solid fa-clipboard-question"></i> Intro Week - Avatar</li></a>
+                        <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview_pieter.json"><i class="fa-solid fa-clipboard-question"></i> Intro Week - Poster</li></a>
+                        </ul>
+                    </div>
+                </div>
+                <div class="double-diamond-phase">
+                    <div class="phase">
+                        <p class="accent">02</p><p>Project Week</p>
+                    </div>
+                    <div class="content">
+                        <p class="lead">Defining the approach</p>
+                        <ul>
+                        <a href="#intern_project/technology_research"><li class="deliverable" id="intern_project/technology_research.json"><i class="fa-solid fa-clipboard-question"></i> Researching The Benefits</li></a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+ 
 
 
 

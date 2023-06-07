@@ -1,0 +1,17 @@
+{
+    "preface":      "This field research aims to analyse PARS on a surface level to get a good overview of existing features.",
+    "title"  : "Creating A Group Avatar",
+    "sub_title": "Getting to know the group",
+    "method":       "The expert interview held with PARS-developer Sarah was used to help in conducting this available product analysis. Together with several technical documents given by the main stakeholder.",
+    "research":     "",
+    "findings":     "A noticeable insight that was very apparent when reviewing PARS, was the incorrect use of modals. Often content would be way too long, causing a horizontal scrollbar. For all findings please reffer to the document listed below:",
+    "findings_url": "https://i465420.hera.fhict.nl/docs/Available%20Product%20Analysis%20-%20PARS.pdf",
+    "conclusion":   "The goal of this available product analysis was to find out what features PARS was comprised of. This was succesfully done by using the expert interview held with PARS-developer Sarah, and the technical design documents given by main stakeholder Pieter.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      }
+    ]
+  }
+  

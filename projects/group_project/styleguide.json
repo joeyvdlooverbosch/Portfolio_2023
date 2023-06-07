@@ -1,0 +1,16 @@
+{
+  "preface": "Design Principle - Exploring Flat Design 2.0",
+  "title": "Design Principle - Exploring Flat Design 2.0 <i class='fa-solid fa-palette color'></i>",
+  "sub_title": "Creating a Clean and Uncomplicated User Interface",
+  "method": "In order to create a clean and user-friendly interface for our attendance and absence system, we embarked on a journey to explore the latest design trends, focusing on the emerging concept of Flat Design 2.0. This design principle offers a fresh and modern approach, which aligns perfectly with our goal of providing a seamless user experience. By employing simplified colors and intuitive visuals, we aimed to capture the attention of our users and enhance the overall aesthetic appeal of the system.",
+  "research": "2. Are there new or existing techniques that we can apply in PARS that can improve the experience?",
+  "findings": "Throughout our exploration, we discovered that Flat Design 2.0 not only provides a visually appealing interface, but also offers the advantage of adaptability to different screen sizes and devices. This flexibility is crucial for our attendance and absence system, as it caters to a diverse range of users, from desktop users to those accessing the system via mobile devices. By embracing this design principle, we ensured a consistent and optimized user experience across various platforms.",
+  "findings_url": "https://i465420.hera.fhict.nl/docs/Styleguide.pdf",
+  "conclusion": "In conclusion, our exploration of Flat Design 2.0 for our attendance and absence system has proven to be a resounding success. By implementing this design principle, we have achieved a clean, modern, and intuitive user interface that not only enhances usability but also sparks user engagement. The attention-grabbing visual elements and simplicity of the design contribute to a positive user experience, enabling users to seamlessly navigate through the system and access the information they need.",
+  "sources": [
+    {
+      "title": "Demakis, R. (2021, September 14). Flat Design 2.0: A New Trend in Web Design - Demakis Technologies. Demakis Technologies.",
+      "url": "https://demakistech.com/flat-design/"
+    }
+  ]
+}

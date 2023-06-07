@@ -1,0 +1,25 @@
+{
+    "preface": "The Johan Cruyff Foundation assigned us a project to create a tech innovation using synthetic media, mixed reality, AI, and/or big data to encourage children and young people to play and exercise more in Schoolyard 14. The project aims to address the lack of easy access to sports for children and young people in their daily lives.",
+    "title": "Technology and Play: NFC for Promoting Physical Activity",
+    "sub_title": "How NFC Can Help Kids Stay More Active and Which Rules to Follow?",
+    "method": "The project utilizes NFC (Near Field Communication) technology to enable interactive experiences and promote physical activity among children.",
+    "research": "The research focuses on exploring the use of NFC tags in various applications such as interactive experiences, access control and payments, smart posters and advertising, IoT device configuration, and social media integration. By leveraging NFC technology, we aim to create engaging and interactive experiences for children in Schoolyard 14.",
+    "findings": "The findings indicate that NFC tags can enable interactive experiences by triggering specific actions on a phone when tapped. They can also be used for access control, contactless payments, smart posters and advertising, IoT device configuration, and social media integration. These applications provide opportunities to promote physical activity and engage children in a fun and interactive manner.",
+    "findings_url": "https://www.cruyff-foundation.org/en/about/14-rules/",
+    "conclusion": "In conclusion, by incorporating NFC technology in Schoolyard 14, we can create innovative and interactive experiences that encourage children to stay active. The project aligns with SDG #3: Good Health and Well-Being, as it promotes physical activity among children, contributing to their overall well-being.",
+    "sources": [
+      {
+        "title": "Johan Cruyff Foundation - 14 rules",
+        "url": "https://www.cruyff-foundation.org/en/about/14-rules/"
+      },
+      {
+        "title": "Hall, C. (2021, December 14). How To Useful Ways To Use NFC Tags. trendblog.net.",
+        "url": "https://trendblog.net/18-creative-useful-ways-to-use-nfc-tags-with-your-smartphone-2021-update/"
+      },
+      {
+        "title": "Wikimedia Foundation. (2022, August 23). Johan Cruyff Foundation. Wikipedia.",
+        "url": "https://en.wikipedia.org/wiki/Johan_Cruyff_Foundation"
+      }
+    ]
+  }
+  
