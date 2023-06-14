@@ -1,0 +1,17 @@
+{
+    "preface":      "The purpose of this usability test is to evaluate the effectiveness of the PARS design. PARS's design, layout, navigation, and content will be tested to determine if it meets the needs of its intended target audience. The test will be conductedusing the principles of the CMD Methods Pack, which includes a series of standardisedtasks and measures to ensure consistency and reliability of the results.",
+    "title"  : "Usability Test - <i class='fa-solid fa-flask lab'></i>",
+    "sub_title": "Validating the implemented solutions",
+    "method":       "To approach this research the guidelines of the CMD Methods pack will be used. Which are as follows: 'Detect problems users have with your design and correct these before the product goes live.'.",
+    "research":     "1E: Do the devised solutions also have added value for the end users?",
+    "findings":     "3 participants were reqruited for this test, to read more about the findings of this test use the button below.",
+    "findings_url": "https://docs.google.com/document/d/1MkLA0cd_sryfm3ryrmpKHWCdE7lzeyi4DZbMhHaeaMQ/edit?usp=sharing",
+    "conclusion":   "The user test identified design inconsistencies and usability issues in the interface and content. Most scenarios were completed successfully without errors, but some participants made non-critical mistakes. <br><br>The test provides valuable insights for optimizing and enhancing the user experience.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      }
+    ]
+  }
+  

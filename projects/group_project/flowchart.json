@@ -1,0 +1,17 @@
+{
+    "preface": "To help understand the logic and flow of updating a student's status, a flowchart was made showcasing the steps and decisions administrative personell take to achieve this.",
+    "title"  : "Flowchart student status",
+    "sub_title": "Visualizing the flow of PARS",
+    "method":       "To create the flowchart draw.io was used. The interviews and product showcase were used as a guide to help create the flowchart.",
+    "research":     "2B: How does PARS currently work?",
+    "findings":     "View the flowchart using the button below.",
+    "findings_url": "https://i465420.hera.fhict.nl/docs/Flow-Admin.drawio.pdf",
+    "conclusion":   "Creating the flowchart helped create a better technical understanding of the PARS features. It also helps in other areas such as design, and user experience. All steps taken are mapped out, enabling for a more comprehensive final product.",
+    "sources": [
+      {
+        "title": "CMD Methods Pack - find a combination of research methods that suit your needs. (n.d.).",
+        "url": "https://www.cmdmethods.nl/"
+      }
+    ]
+  }
+  

@@ -246,7 +246,7 @@
             Check out the reading guide if you want to get a better understanding of the process that was undertaken to realize the end product.
             </p>
             <br>
-            <a href="https://i465420.hera.fhict.nl/docs/Reading%20Guide%20-%20Group%20Project%202023.pdf" target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
+            <a href="https://i465420.hera.fhict.nl/docs/Reading Guide Group - Joey vd Looverbosch - 2023.pdf" target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
 
             
         </div>
@@ -261,8 +261,8 @@
         <div class="row">
             <div class="col-8 d-flex lead-wrapper">
                 <p class="lead">GROUP PROJECT EVIDENCE</p>
-                <h2 class="title">Creation of a professional portfolio website</h2>
-                <p>Here you can find all the products, prototypes and research documents that were made to bring this website to life.
+                <h2 class="title">Improving PARS</h2>
+                <p>Here you can find all the products, prototypes and research documents that were made to bring this project to life.
                 </p>
             </div>
 
@@ -291,12 +291,10 @@
                     <div class="content">
                         <p class="lead">Defining the approach</p>
                         <ul>
-                        <!-- <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview.json"><i class="fa-solid fa-chalkboard-user"></i> Empathy Map</li></a>
-                        <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview.json"><i class="fa-solid fa-user"></i> Persona</li></a> -->
+                        <a href="#group_project/persona"><li class="deliverable" id="group_project/persona.json"><i class="fa-solid fa-person"></i> Personas</li></a>
                         <a href="#group_project/hmw"><li class="deliverable" id="group_project/hmw.json"><i class="fa-solid fa-brain"></i> HMW/Ideation</li></a>
                         <a href="#group_project/styleguide"><li class="deliverable" id="group_project/styleguide.json"><i class="fa-solid fa-palette"></i> Styleguide</li></a>
                         <a href="#group_project/user_stories"><li class="deliverable" id="group_project/user_stories.json"><i class="fa-solid fa-person"></i> User Stories</li></a>
-                        <li class="deliverable-w"><a href="https://www.figma.com/file/c7hOBaFuvkPBy9gAD2FGpg/Prototypes?type=design&node-id=1%3A3&t=zLSugwAw4PhFvfOe-1" target="_blank"><i class="fa-regular fa-clone mr-2"></i>Prototypes</a></li>
                         </ul>
                     </div>
                 </div>
@@ -305,9 +303,12 @@
                         <p class="accent">03</p><p>Develop Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Creating the website</p>
+                        <p class="lead">Developing & validating solutions</p>
                         <ul>
-                        <li class="deliverable" id="group_project/nothing.json">💻</li>
+                        <a href="#group_project/flowchart"><li class="deliverable" id="group_project/flowchart.json"><i class="fa-solid fa-folder-tree"></i> Flowchart</li></a>
+                        <a href="#group_project/c4"><li class="deliverable" id="group_project/c4.json"><i class="fa-solid fa-diagram-project"></i> C4 Model</li></a>
+                        <a href="https://www.figma.com/file/c7hOBaFuvkPBy9gAD2FGpg/Prototypes?type=design&node-id=1%3A3&t=h8uZ8peeFlr7kIlz-1" target="_blank"><li class="deliverable"><i class="fa-regular fa-clone mr-2"></i> Prototype's</li></a>
+                        <a href="#group_project/usability_test"><li class="deliverable" id="group_project/usability_test.json"><i class="fa-solid fa-flask-vial"></i> Usability Test</li></a>
                         </ul>
                     </div>
                 </div>
@@ -316,9 +317,12 @@
                         <p class="accent">04</p><p>Deliver Phase</p>
                     </div>
                     <div class="content">
-                        <p class="lead">Validating and launching the website</p>
+                        <p class="lead">Delivering the product</p>
                         <ul>
-                           
+                        <a href="#group_project/product_showcase"><li class="deliverable" id="group_project/product_showcase.json"><i class="fa-solid fa-person-chalkboard"></i> Product Showcase</li></a>
+                        <a href="#group_project/advice"><li class="deliverable" id="group_project/advice.json"><i class="fa-solid fa-file-circle-exclamation"></i> Advisory Rapport</li></a>
+                        <a href="https://docs.google.com/document/d/1uy-pEdN2P7a4DwJUQznyiImk1dfhJSIeoxM_YE0fFJQ/edit" target="_blank"><li class="deliverable"><i class="fa-solid fa-comments"></i> Retrospectives</li></a>
+                        <a href="https://docs.google.com/spreadsheets/d/11FqWA4k4d63lkES_SZQDr0kVSZ-RNsSkm8pW_tBCwYE/edit" target="_blank"><li class="deliverable"><i class="fa-solid fa-comment-dots"></i> 360 Peer Reviews</li></a>
                         </ul>
                     </div>
                 </div>
@@ -355,7 +359,7 @@
             Check out the reading guide if you want to get a better understanding of the process that was undertaken to realize the end product.
             </p>
             <br>
-            <a href="https://i465420.hera.fhict.nl/docs/Reading%20Guide%20-%20Group%20Project%202023.pdf" target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
+            <a href="https://i465420.hera.fhict.nl/docs/Reading Guide International - Joey vd Looverbosch - 2023.pdf " target="_blank"><i class="fa-solid fa-book-open"></i> Reading Guide</a>
 
             
         </div>
@@ -370,8 +374,8 @@
         <div class="row">
             <div class="col-8 d-flex lead-wrapper">
                 <p class="lead">INTERNATIONAL PROJECT EVIDENCE</p>
-                <h2 class="title">Creation of a professional portfolio website</h2>
-                <p>Here you can find all the products, prototypes and research documents that were made to bring this website to life.
+                <h2 class="title">Working in an international context</h2>
+                <p>Here you can find all the products, prototypes and research documents that were made to bring this project to life.
                 </p>
             </div>
 
@@ -385,9 +389,9 @@
                     <div class="content">
                         <p class="lead">Getting to know the group</p>
                         <ul>
-                        <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview_pieter.json"><i class="fa-solid fa-clipboard-question"></i> Intro Week - Avatar</li></a>
-                        <a href="#group_project/expert_interview_pieter"><li class="deliverable" id="group_project/expert_interview_pieter.json"><i class="fa-solid fa-clipboard-question"></i> Intro Week - Poster</li></a>
-                        </ul>
+                        <a href="https://i465420.hera.fhict.nl/docs/Poster_Talented_Titans_Group_4.png" target="_blank"><li class="deliverable"><i class="fa-solid fa-clipboard-question"></i> Intro Week - Avatar</li></a>
+                        <a href="https://docs.google.com/document/d/13E4ywcNMLSX_96LyFHTB-uC7Ni7OBvH3n2zeX5BZPyk/edit?usp=sharing" target="_blank"><li class="deliverable"><i class="fa-solid fa-tree"></i> Trend Analysis SDG 15</li></a>
+                        <a href="https://i465420.hera.fhict.nl/docs/Poster_Talented_Titans_Group_4.png" target="_blank"><li class="deliverable"><i class="fa-solid fa-clipboard-question"></i> Intro Week - Poster</li></a>
                     </div>
                 </div>
                 <div class="double-diamond-phase">
@@ -397,7 +401,10 @@
                     <div class="content">
                         <p class="lead">Defining the approach</p>
                         <ul>
-                        <a href="#intern_project/technology_research"><li class="deliverable" id="intern_project/technology_research.json"><i class="fa-solid fa-clipboard-question"></i> Researching The Benefits</li></a>
+                        <a href="#intern_project/technology_research"><li class="deliverable" id="intern_project/technology_research.json"><i class="fa-solid fa-clipboard-question"></i> Researching The Posibilities</li></a>
+                        <a href="https://www.figma.com/proto/pyLluuA6gUEmYcrCDJtRIM/TAP'N-GO?page-id=0%3A1&type=design&node-id=1-2&viewport=114%2C344%2C0.27&scaling=scale-down&starting-point-node-id=1%3A2" target="_blank"><li class="deliverable"><i class="fa-regular fa-clone mr-2"></i> Prototype</li></a>
+                        <a href="https://www.youtube.com/watch?v=G0ExIpVO2ZE&ab_channel=ErikHeijligers" target="_blank"><li class="deliverable"><i class="fa-solid fa-video"></i> Final Demo</li></a>
+
                         </ul>
                     </div>
                 </div>

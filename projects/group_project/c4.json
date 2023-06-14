@@ -1,0 +1,17 @@
+{
+    "preface":      "To help visualize the software architecture of the and improved PARS a C4 model was made.",
+    "title"  : "C4 Model",
+    "sub_title": "Unveiling the C4 Model: Visualizing Complex Software Architecture with Clarity and Simplicit",
+    "method":       "To realize this C4 Model, adequite research was first done on what a C4 model actually is. This was a new concept for me.",
+    "research":     "2B: How does PARS currently work?",
+    "findings":     "Through the creation of a C4 Model the different architectural layers of PARS became better understood. You can view the C4 model using the button below. Note that you can click through the components if you view it in diagrams.net.",
+    "findings_url": "https://drive.google.com/file/d/1NzSWgiV-ThoYf547XX-_Sl2Pkm48YETC/view?usp=sharing",
+    "conclusion":   "In conclusion creating a C4 model based on the new and improved software architecture of PARS, proved to be a very beneficial step in the develop phase. Clearly visualizing the system brought forth some previously overseen elements, such as the steps users take to achieve their goals within PARS.",
+    "sources": [
+      {
+        "title": "C4Model.com - The C4 model for visualising software architecture (n.d.).",
+        "url": "https://c4model.com/"
+      }
+    ]
+  }
+  
